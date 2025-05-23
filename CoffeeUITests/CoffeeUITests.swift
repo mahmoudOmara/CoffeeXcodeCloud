@@ -44,6 +44,7 @@ final class CoffeeUITests: XCTestCase {
   }
 
   func testAddCoffee() throws {
+    
     CoffeesScreen()
       .tapAddCoffeeButton()
   }
