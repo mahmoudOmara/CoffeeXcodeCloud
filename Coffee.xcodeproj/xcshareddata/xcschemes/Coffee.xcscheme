@@ -20,6 +20,20 @@
                ReferencedContainer = "container:Coffee.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AE4E566628C313DF00CBF8BC"
+               BuildableName = "CoffeeUITests.xctest"
+               BlueprintName = "CoffeeUITests"
+               ReferencedContainer = "container:Coffee.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
